@@ -1,0 +1,5 @@
+/Users/logan/Projects/FrechetDistance/FrechetDistance/bin/Debug/FrechetDistance.exe
+/Users/logan/Projects/FrechetDistance/FrechetDistance/bin/Debug/FrechetDistance.pdb
+/Users/logan/Projects/FrechetDistance/FrechetDistance/obj/x86/Debug/FrechetDistance.csproj.CoreCompileInputs.cache
+/Users/logan/Projects/FrechetDistance/FrechetDistance/obj/x86/Debug/FrechetDistance.exe
+/Users/logan/Projects/FrechetDistance/FrechetDistance/obj/x86/Debug/FrechetDistance.pdb
